@@ -1,4 +1,4 @@
-Welcome here!
+My name is Irfan Khan. I hold a master of science degree in plant pathology. During my master's, I worked as a graduate research assistant at Plant Bacteriology and Biotechnology Laboratory, where I have gained hand-on experiences and research mindset. From the lab, I have developed some laborary and analytical skills related to molecular biology. I am looking forward to continue my research journey by exploring and discovering novel techniques. 
 
 <!--
 **irfanspace/irfanspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
