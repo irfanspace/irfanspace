@@ -1,4 +1,4 @@
-My name is Irfan Khan, a graduate in agriculture and a postgraduate in plant pathology. During my master's, I worked as a graduate research assistant at the Plant Bacteriology and Biotechnology Laboratory, where I have developed some laboratory and analytical skills related to molecular biology. I look forward to continuing my research journey by exploring and discovering novel techniques. 
+My name is Irfan Khan. I hold a bachelor of science in agriculture and master of science in plant pathology. During my master's, I worked as a graduate research assistant at the Plant Bacteriology and Biotechnology Laboratory, where I have developed some laboratory and analytical skills related to molecular biology. I look forward to continuing my research journey by exploring and discovering novel techniques. 
 
 <!--
 **irfanspace/irfanspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
