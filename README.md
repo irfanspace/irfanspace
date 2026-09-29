@@ -4,6 +4,8 @@ My name is Irfan Khan. I hold a bachelor of science in agriculture and master of
     <img src="https://demolab.com! 🚀" alt="Typing SVG" />
   </a>
 </h1>
+### What I do:
+[![Typing SVG](https://demolab.com+💻;Open+Source+Contributor+🌐;Tech+Blogger+%26+Mentor+✍️)](https://git.io)
 
 <!--
 **irfanspace/irfanspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
