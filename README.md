@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=cambria&weight=900&size=22&pause=1000&color=B59410&background=F9F9F900&width=435&lines=Hi+there!+My+name+is+Irfan+Khan;I+am+a+Plant+Pathology+Graduate" alt="Typing SVG" />
-I hold a bachelor of science in $\color{blue}\text{agriculture}$ and master of science in $\color{blue}\text{plant pathology}$. During my master's, I worked as a graduate research assistant at the Plant Bacteriology and Biotechnology Laboratory, where I have developed some laboratory and analytical skills related to molecular biology. I look forward to continuing my research journey by exploring and discovering novel techniques.
+<h4>I hold a bachelor of science in $\color{blue}\text{agriculture}$ and master of science in $\color{blue}\text{plant pathology}$. During my master's, I worked as a graduate research assistant at the Plant Bacteriology and Biotechnology Laboratory, where I have developed some laboratory and analytical skills related to molecular biology. I look forward to continuing my research journey by exploring and discovering novel techniques.<h4>
 <h4>Let's share thoughts in $\color{red}\text{Bengali, English, Hindi, Español, Arabic}$</h4>
 <!--
 **irfanspace/irfanspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
