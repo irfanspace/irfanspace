@@ -1,5 +1,5 @@
-<h2>$\color{}\text{Hi there! My name is Irfan Khan.}$ $\color{red}\text{Welcome to my coding (s)pace.}$</h2>
-<img src="https://readme-typing-svg.demolab.com?font=cambria&weight=900&size=22&pause=1000&color=B59410&background=F9F9F900&width=435&lines=Plant+Pathology+Graduate;Graduate+Research+Assistant" alt="Typing SVG" /> 
+<h2>$\color{}\text{Hi there!}$ $\color{red}\text{Welcome to my coding (s)pace.}$</h2>
+<img src="https://readme-typing-svg.demolab.com?font=cambria&weight=900&size=22&pause=1000&color=B59410&background=F9F9F900&width=435&lines=I +am+a+Plant+Pathology+Graduate+&;Graduate+Research+Assistant" alt="Typing SVG" /> 
 My portfolio: https://sites.google.com/view/irfan-khan-/home
 <h4>Let's share thoughts in $\color{red}\text{Bengali, English, Hindi, Español, Arabic.}$</h4>
 
